@@ -8,7 +8,7 @@ permalink: /about/
 Spectroscopy Café is a personal blog where I share how I see the world through the lens of a physics student. It mainly features updates about my work, personal projects and expository writings. 
 
 # **Anson Ho**
-Hi! I'm Anson Ho, a final year undergraduate physics student at the [University of St Andrews](https://www.st-andrews.ac.uk/physics-astronomy/). I'm interested in all things physics and mathematics, and love learning about them just for the fun of it. My undergraduate thesis lies at the intersection between condensed matter and photonics, specficially Neural Networks to design Photonic Crystal Waveguides. 
+Hi! I'm Anson Ho, a final year undergraduate physics student at the [University of St Andrews](https://www.st-andrews.ac.uk/physics-astronomy/). I'm interested in all things physics and mathematics, and love learning about them just for the fun of it. My undergraduate thesis lies at the intersection between condensed matter and photonics, specifically Neural Networks to design Photonic Crystal Waveguides. 
 
 Outside of my studies and immediate academic interests, I hope to help tackle [some of the world's most pressing questions](https://80000hours.org/key-ideas/) through [effective altruism](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/). 
 
