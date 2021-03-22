@@ -6,7 +6,7 @@ categories: light bites
 published: true
 excerpt_separator: <!--more-->
 ---
-*What happens if you play pool on an elliptical table? (With one ball, no friction, no pockets, and a lot of free time.)*
+*What happens if you play billiard on an elliptical table? (With one ball, no friction, no pockets, and a lot of free time.)*
 <!--more-->
 
 One way of defining an ellipse is in terms of two points, each of which is called a *focus* point. The ellipse is then the locus of all points such that the sum of the distances from these two foci is always a constant. You can visualise it like this: put a loop of string around pins located at the foci, then pull the string taut at one point using a pencil. If you then slide the pencil while keeping the string tight, then the shape that you get is an ellipse. 
