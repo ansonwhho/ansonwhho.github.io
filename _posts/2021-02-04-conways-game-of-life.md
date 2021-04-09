@@ -18,7 +18,7 @@ Conway’s Game of Life isn’t really a “game” in the conventional sense of
 
 One of the reasons for this is that the rules of Life are very simple, but somehow lead to really complex and unpredictable (not a technical term)​[^1] behaviour. There are only three simple rules of Life (see next section), but some of the [patterns](http://pentadecathlon.com/lifeNews/index.php) that people have come up with are truly remarkable.
 
-Another reason why people find the Game of Life interesting is because it is able to [simulate any computer algorithm](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/turing-machine/one.html), so it can simulate a *Turing Machine*. Paul Rendell has even [managed to do this](https://www.ics.uci.edu/~welling/teaching/271fall09/Turing-Machine-Life.pdf), and it blows my mind every time I see it!
+Another reason why people find the Game of Life interesting is because it is able to [simulate any computer algorithm](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/turing-machine/one.html), which can be carried out by a Turing Machine (assuming the [Church-Turing thesis](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis)). Paul Rendell has even [managed to do this](https://www.ics.uci.edu/~welling/teaching/271fall09/Turing-Machine-Life.pdf), and it blows my mind every time I see it!
 
 # Description
 The basic rules of the game are (from [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)):

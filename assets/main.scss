@@ -3,9 +3,17 @@
 
 @import "{{ site.theme }}";
 
-.site-header { background-color: #00154f; }
+.site-header { 
+	background-color: #00154f; 
+}
+.site-header img { 
+	float: left; 
+	width: 40px; 
+	height: 40px; 
+	margin-top: 5px;
+	margin-right: 10px;
+	}
 .site-title { color: #fff; }
 .site-title, .site-title:visited { color: #fff; }
 .site-nav .page-link { color: #fff; }
 .site-footer { background-color: #d9f1ff; }
-

@@ -5,10 +5,6 @@ layout: home
 <head>
 	<style>
 
-		.container {
-			background-color: blue;
-		}
-
 		.thumbnail-grid {
 			display: flex;
 			flex-direction: row;
@@ -54,7 +50,6 @@ layout: home
 			margin-left: 10px;
 			font-size: 12px;
 		}
-
 	</style>
 </head>
 

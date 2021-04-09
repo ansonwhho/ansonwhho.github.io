@@ -21,7 +21,6 @@
 title: Spectroscopy Café
 email: whah@st-andrews.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  ©2021 • Spectroscopy Café • Anson Ho
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "spectroscopycafe.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
