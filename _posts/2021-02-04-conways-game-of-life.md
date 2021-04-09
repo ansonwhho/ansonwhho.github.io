@@ -31,13 +31,13 @@ The game starts off in a *dead state* by default, where a blank grid is displaye
 
 # The Simulation
 You can try out my implementation of the Game of Life [here](https://github.com/spectroscopycafe/conway-game-of-life). Below are some snapshots of the simulation:
-![Gosper's Glider Gun](/assets/2021/GoL1_GliderGun.png)
+![Gosper's Glider Gun](/images/2021/GoL1_GliderGun.png)
 Figure 1: [Gosper’s glider gun](https://en.wikipedia.org/wiki/Gun_(cellular_automaton)) that periodically shoots gliders down to the bottom right of the screen
 
-![Random state](/assets/2021/GoL2_Random.png)
+![Random state](/images/2021/GoL2_Random.png)
 Figure 2: A [(pseudo-)randomly](https://en.wikipedia.org/wiki/Pseudorandom_number_generator) generated start state
 
-![State after iterations](/assets/2021/GoL3_Iteration.png)
+![State after iterations](/images/2021/GoL3_Iteration.png)
 Figure 3: Most cells have died after 108 iterations
 
 # Controls

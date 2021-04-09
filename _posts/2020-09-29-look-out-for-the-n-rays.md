@@ -25,7 +25,7 @@ This is where we are now – a dimly lit physics laboratory at the University of
 
 Wood watches with anticipation and sees something truly remarkable: absolutely nothing. Blondlot on the other hand, is absolutely convinced that the spectrum is distinctly visible, and he attributes Wood’s inability to see the pattern to a [“lack of sensitiveness in the eye”​](https://zenodo.org/record/1429443). In light of these assertions, Wood proposes a follow-up test: he would adjust the aluminium prism, and Blondlot would have to tell when the changes were being made and how the prism was aligned​.
 
-![Schematic of Blondlot's experiment](/assets/2020/Nray1_Experiment.png)
+![Schematic of Blondlot's experiment](/images/2020/Nray1_Experiment.png)
 
 Secretly though, Wood removes the prism altogether, ruining any chance of the spectrum being observed​. But neither Blondlot nor his assistant detect any change – they remain convinced that they see the same pattern, [utterly oblivious to what has happened​](https://doi.org/10.2307/27757473).
 

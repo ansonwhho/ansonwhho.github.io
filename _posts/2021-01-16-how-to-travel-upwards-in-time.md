@@ -25,14 +25,14 @@ So it seems that we often speak of time using spatial metaphors. This in itself 
 # A Relatively Good Time
 All this talk about space and time seems to suggest that we can try and map things out – what does our language suggest about our mental models of time? To be more precise, [let’s draw a 1-dimensional time axis​](https://en.wikipedia.org/wiki/Multiple_time_dimensions)[^1].
 
-![A simple 1D time axis](/assets/2021/Time1_Axis.png)
+![A simple 1D time axis](/images/2021/Time1_Axis.png)
 Fig. 1: A simple 1D time axis
 
 From our experience, we might expect it to look something like this, with past, present and future. But wait – words like “present” are defined relative to an observer, so we’ll need to draw in a person as well.
 
 One way to do this would be to make the person moving along the time axis, with [the past constantly behind and the future constantly ahead](https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-9329.00191). This assumes a stationary time axis, but what if we’ve gotten it the wrong way round? Perhaps we’re standing at this point called the “present”, and time is flowing towards us!
 
-![Two perspectives of time](/assets/2021/Time2_EgovsTime.png)
+![Two perspectives of time](/images/2021/Time2_EgovsTime.png)
 Fig. 2: Two perspectives of time
 
 How do we know which of these two views is correct? To test this, try and answer the following question:
@@ -44,32 +44,32 @@ Most answers are either “Monday” or “Friday”, and [the original psycholo
 
 In the study, the authors suggest that different people have different mental representations of time. If you thought that the answer was “Monday”, then you see yourself as stationary and time as flowing towards you, i.e. the *time-moving perspective*. Moving the meeting “forward” would mean moving the meeting in the direction that it was already heading; relative to the meeting.
 
-![Is the meeting now on Monday or Friday?](/assets/2021/Time3_MonFri.png)
+![Is the meeting now on Monday or Friday?](/images/2021/Time3_MonFri.png)
 Fig 3: Is the meeting now on Monday or Friday?
 
 If you’re like me thought that the meeting would be shifted to Friday, then you instead see time as a stationary axis that you move along, i.e. the *ego-moving perspective*. In this case, “forward” is direction that the observer “moves” along; relative to the observer.
 
 The researchers further found that they could change the proportion of answers from participants using spatial cues. For instance, subjects that rode an office chair across a room were more likely to answer “Friday”, because this primes the brain to think of us as moving through a fixed absolute space. Conversely, those who pulled an office chair toward them with a rope were more likely to answer Monday, with the environment “moving” past us and priming the time-moving perspective.
 
-![Changing our mental representations of time using spatial cues](/assets/2021/Time4_RideRope.png)
+![Changing our mental representations of time using spatial cues](/images/2021/Time4_RideRope.png)
 Fig. 4: Changing our mental representations of time using spatial cues
 
 So depending on how you want to look at it, both “Monday” and “Friday” could be correct. What this implies is that the way we think about time is very closely tied to how we think about space, and also changes with context. If our brains have been primed appropriately, we may be more likely to adopt an ego-moving perspective and vice versa. Good luck making it to the meeting on time!
 
 # How to Travel Upwards in Time
-![Representing the future as ahead and the past behind](/assets/2021/Time5_FutureAhead.png)
+![Representing the future as ahead and the past behind](/images/2021/Time5_FutureAhead.png)
 Fig. 5: Representing the future as ahead and the past behind
 
 Another thing that we could consider is the direction of the observer relative to the time axis. We’ve assumed that the future “lies ahead”, but what if it isn’t? Why don’t we say that the “future lies behind”, for example?
 
-![Seeing the past in front of us](/assets/2021/Time6_PastAhead.png)
+![Seeing the past in front of us](/images/2021/Time6_PastAhead.png)
 Fig. 6: Seeing the past in front of us
 
 Believe it or not, this is exactly how the Aymara people seem to visualise time, where the word [*q”ipa*](https://www.theguardian.com/science/2005/feb/24/4), roughly meaning “behind” or “the back”, is used to talk about the future. We also see similar features in other languages. The Māori proverb, [*Kia whakatōmuri te haere whakamua*](https://journals.sagepub.com/doi/full/10.1177/1463949116677923) translates to “I walk backwards into the future with my eyes fixed on my past”. In Malagasy, past events are referred to with words that connote forwardness. [An interesting explanation](https://doi.org/10.1016/0147-1767(95)00004-U) is offered for this: the past and present are known and so exists “before one’s eyes”, but the future is as yet unseen and so lies behind.
 
 But why stop here? What if the time axis isn’t horizontal? In [Chinese languages](https://doi.org/10.3724/SP.J.1041.2012.01015), “last year” is literally said as *上年* “up year”, and next year is *下年* “down year”. There’s one more example that I find especially intriguing. Thus far we’ve seen examples where the axes are oriented relative to the observer, but what if the time axis were absolute and fixed?
 
-![A vertical time axis (left) and an absolute time axis (right)](/assets/2021/Time7_TimePerspectives.png)
+![A vertical time axis (left) and an absolute time axis (right)](/images/2021/Time7_TimePerspectives.png)
 Fig. 7: A vertical time axis (left) and an absolute time axis (right)
 
 For the aboriginal Pormpuraaw people, the time axis is fixed according to the cardinal directions. Unlike in English, where we talk about space in relative terms like “left” and “right”, [Pormpuraawan languages are inextricably linked to absolute space​](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3428806/)[^2]​. To able to communicate, you would need to be constantly aware of where East and West are! In a study by Lera Boroditsky and Alice Gaby, the authors write:

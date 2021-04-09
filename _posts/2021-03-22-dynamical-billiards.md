@@ -19,20 +19,20 @@ What's so cool about this definition? One thing that I think it brings to the ta
 
 Regardless of the initial direction, after passing through one focus, the billiard ball reflects off the ellipse and passes through the other focus. 
 
-![initial-path](/assets/2021/billiards1_Initial.png)
+![initial-path](/images/2021/billiards1_Initial.png)
 *Suppose you hit a billiard ball at $$P_0$$, sending it through the focus point $$F_2$$ to $$P_1$$. What happens next?*
 
 But why stop there? What happens after the ball bounces off the elliptical table a second time?
 
-![second-time](/assets/2021/billiards2_Reflect.png)
+![second-time](/images/2021/billiards2_Reflect.png)
 
 And again...
 
-![third-time](/assets/2021/billiards3_ReflectTwice.png)
+![third-time](/images/2021/billiards3_ReflectTwice.png)
 
 Each time the ball passes through one of the foci, it reflects off the elliptical table and passes through the other focus. Let's take this further - what happens if we keep doing this?
 
-![converge-to-horizontal](/assets/2021/billiards4_ConvergeToAxis.png)
+![converge-to-horizontal](/images/2021/billiards4_ConvergeToAxis.png)
 
 We can see that after many bounces, the trajectory of the ball converges to the horizontal. 
 
@@ -41,11 +41,11 @@ This poses the question: *why does this happen?* There are many ways to attack t
 # Caustic curves
 Interestingly, what we get is an elliptical caustic curve that shares the same foci as the elliptical table, and so these are *confocal* ellipses. 
 
-![confocal-ellipse](/assets/2021/billiards5_ConfocalEllipse.png)
+![confocal-ellipse](/images/2021/billiards5_ConfocalEllipse.png)
 
 What if we change things slightly and have the ball initially pass between the two foci? In this case we get a confocal hyperbola, which is really interesting. 
 
-![confocal-hyperbola](/assets/2021/billiards6_Hyperbola.png)
+![confocal-hyperbola](/images/2021/billiards6_Hyperbola.png)
 
 Another interesting thing to note is that the caustic ellipse can be obtained via a *conformal* map (locally angle preserving). If the elliptical table has the equation
 
@@ -61,7 +61,7 @@ where $$\lambda$$ is a constant. When the denominator of the first term satisfie
 
 If we play around with the eccentricity of the ellipse (by changing the positions of the foci), then we get the special case of the circle. In this case, we get a concentric circle as a caustic, as you might expect. 
 
-![concentric-circle](/assets/2021/billiards7_ConcentricCircle.png)
+![concentric-circle](/images/2021/billiards7_ConcentricCircle.png)
 
 # Simulation and Resources
 I've made a GeoGebra applet that shows this for 50 reflections in the ellipse, which you can play around with. You can find more information on my [GeoGebra page](https://www.geogebra.org/m/euzqtn5p) or in my [GitHub repository](https://github.com/spectroscopycafe/geogebra-scripts).
