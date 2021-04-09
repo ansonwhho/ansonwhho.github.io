@@ -4,7 +4,7 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a href="{{ "/" | relative_url }}">
-      <img src="/images/spectroscopy-cafe-logo.png" alt="spectroscopy-cafe" align="left">
+      <img src="/images/spectroscopy-cafe-logo.png" alt="spectroscopy-cafe" style="float: left; width: 40px; height: 40px; margin-top: 5px; margin-right: 10px;">
     </a>
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
