@@ -72,7 +72,7 @@ I've made a GeoGebra applet that shows this for 50 reflections in the ellipse, w
 You can change the eccentricity of the ellipse, and also hide or show the caustic curve (in blue) to see how things change. The initial trajectory of the billiard ball is uniquely determined by the positions of $$P_0$$ and $$P_1$$. 
 
 ## Resources
-Since this is just meant to be a short blog post sharing a simulation that you can try out, I've left out a ton of details and discussion in the above. Essentially all the claims I've made above need proving! There are also other situations that could be investigated, such as the high-symmetry case where the eccentricity becomes zero, and analysing periodic orbits using a group/number theoretic approach. If you're interested in finding out more, I recommend: 
+There are also other situations that could be investigated, such as the high-symmetry case where the eccentricity becomes zero, and analysing periodic orbits using a group/number theoretic approach. If you're interested in finding out more, I recommend: 
 - [Elliptical Pool Table](https://www.youtube.com/watch?v=4KHCuXN2F3I) (Numberphile video)
 - The Birkhoff billiards page at [dynamical-systems.org](https://www.dynamical-systems.org/billiard/info.html)
 - [Math 188r Dynamical systems](http://people.math.harvard.edu/~knill/teaching/math118/118_dynamicalsystems.pdf) lecture notes by Oliver Knill

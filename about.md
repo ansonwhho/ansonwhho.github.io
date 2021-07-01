@@ -12,7 +12,7 @@ Spectroscopy Café is a personal blog featuring updates about my work, personal 
 
 Hi! I'm a physics student who is passionate about artificial intelligence and scientific research, as well as trying to tackle [some of the world's most pressing questions](https://80000hours.org/key-ideas/) through [effective altruism](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/). 
 
-Currently I'm particularly interested in conducting research into the following areas: 
+Currently I'm particularly interested in conducting research in the following areas: 
 - Scientific applications of AI
 - Reinforcement learning
 - The mathematics of machine learning

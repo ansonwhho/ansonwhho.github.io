@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 *A simulation of Conway's Game of Life using Python and Pygame, as a nice visualisation of cellular automata*
 <!--more-->
 
-This is a simulation of the late [John Conway’s](https://en.wikipedia.org/wiki/John_Horton_Conway) [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) that I made using Python 3 and Pygame. I’d heard of this game many times before, but I’d never gotten round to learning more about it until recently, while ~~procrastinating~~ preparing for one of the [university modules](https://www.st-andrews.ac.uk/subjects/modules/catalogue/?code=MT4512&academic_year=2020%2F1) that I’m taking this semester. 
+This is a simulation of the late [John Conway’s](https://en.wikipedia.org/wiki/John_Horton_Conway) [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) that I made using Python 3 and Pygame. I’d heard of this game many times before, but I’d never gotten round to learning more about it until recently.
 
 The GitHub repo for this project can be found [here](https://github.com/spectroscopycafe/conway-game-of-life). I drew a lot of inspiration for how to start the project from Robert Heaton’s blog post, which you can find [here](https://robertheaton.com/2018/07/20/project-2-game-of-life/).
 
@@ -18,7 +18,7 @@ Conway’s Game of Life isn’t really a “game” in the conventional sense of
 
 One of the reasons for this is that the rules of Life are very simple, but somehow lead to really complex and unpredictable (not a technical term)​[^1] behaviour. There are only three simple rules of Life (see next section), but some of the [patterns](http://pentadecathlon.com/lifeNews/index.php) that people have come up with are truly remarkable.
 
-Another reason why people find the Game of Life interesting is because it is able to [simulate any computer algorithm](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/turing-machine/one.html), which can be carried out by a Turing Machine (assuming the [Church-Turing thesis](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis)). Paul Rendell has even [managed to do this](https://www.ics.uci.edu/~welling/teaching/271fall09/Turing-Machine-Life.pdf), and it blows my mind every time I see it!
+Another reason why people find the Game of Life interesting is because it is able to [simulate any computer algorithm](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/turing-machine/one.html), which can be carried out by a Turing Machine (assuming the [Church-Turing thesis](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis)). Paul Rendell has even [managed to do this](https://www.ics.uci.edu/~welling/teaching/271fall09/Turing-Machine-Life.pdf)!
 
 # Description
 The basic rules of the game are (from [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)):
@@ -48,8 +48,6 @@ Figure 3: Most cells have died after 108 iterations
 - `R`: Random state. *Requires disabled mouse editing.*
 
 When mouse editing is enabled, squares can be clicked on to change their state. Live cells are blue and dead cells are white. Other features like the board size, rate of iteration, colours, etc. can be changed in the “constants.py” file – see the [GitHub repo](https://github.com/spectroscopycafe/conway-game-of-life) for this.
-
-There are many other things I haven’t mentioned, like some of the possible arrangements, how the Game of Life can simulate a Turing Machine, and so on. I think I’ll leave them for another blog post, after I’ve learned more about them!
 
 ---
 
