@@ -132,7 +132,7 @@ layout: home
 
 # **Anson Ho**
 Hi! I'm Anson Ho, a recent physics graduate at the [University of St Andrews](https://www.st-andrews.ac.uk/physics-astronomy/). I'm passionate about artificial intelligence and scientific research, as well as trying to tackle [some of the world's most pressing questions](https://80000hours.org/key-ideas/) through [effective altruism](https://www.effectivealtruism.org/articles/introduction-to-effective-altruism/). This blog contains expository writings and updates about my work, and you can find more in the following links: 
-- **Personal notes** that I've [written](https://spectroscopycafe.github.io/st-andrews-notes) based on stuff that I've learnt from books, lecture notes and courses
+- **Personal notes** that I've [written](https://spectroscopycafe.github.io/personal-notes) based on stuff that I've learnt from books, lecture notes and courses
 - **Maths and physics simulations** on [Geogebra](https://www.geogebra.org/u/spectroscopycafe)
 - **Programming projects** on [GitHub](https://github.com/spectroscopycafe)
 - **Writings** for the [St Andrews Physics and Astronomy Magazine](https://pandamagazine.wp.st-andrews.ac.uk/)
