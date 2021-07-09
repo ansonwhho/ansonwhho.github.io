@@ -75,7 +75,7 @@ layout: home
 			</a>
 		</li>
 		<li>
-			<a href="/light/bites/2021/03/22/dynamical-billiards.html" title="Billiards on an elliptical table">
+			<a href="/2021/03/22/dynamical-billiards.html" title="Billiards on an elliptical table">
 				<figure>
 					<div class="thumbnail">
 						<img src="/images/thumbnails/dynamical-billiards.png" alt="dynamical-billiards"/>
@@ -92,7 +92,7 @@ layout: home
 			</a>
 		</li>
 		<li>
-			<a href="light/bites/2021/02/04/conways-game-of-life.html" title="Conway's game of life">
+			<a href="/2021/02/04/conways-game-of-life.html" title="Conway's game of life">
 				<figure>
 					<div class="thumbnail">
 						<img src="/images/thumbnails/conway-game-of-life.png" alt="conway-game-of-life"/>
@@ -109,7 +109,7 @@ layout: home
 			</a>
 		</li>
 		<li>
-			<a href="light/bites/2021/01/23/rainbows-and-rays.html" title="Rainbows and rays">
+			<a href="/2021/01/23/rainbows-and-rays.html" title="Rainbows and rays">
 				<figure>
 					<div class="thumbnail">
 						<img src="/images/thumbnails/rainbows-and-rays.png" alt="rainbows-and-rays"/>

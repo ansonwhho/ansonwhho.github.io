@@ -2,7 +2,6 @@
 layout: post
 title:  Conway's Game of Life
 date:   2021-02-04
-categories: light bites
 published: true
 excerpt_separator: <!--more-->
 ---

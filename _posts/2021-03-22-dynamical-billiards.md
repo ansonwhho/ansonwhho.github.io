@@ -2,7 +2,6 @@
 layout: post
 title:  Billiards on an elliptical table
 date:   2021-03-22
-categories: light bites
 published: true
 excerpt_separator: <!--more-->
 ---

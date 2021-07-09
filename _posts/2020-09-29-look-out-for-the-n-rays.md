@@ -2,7 +2,6 @@
 layout: post
 title:  Look out for the N-rays!
 date:   2020-09-29
-categories: main courses
 published: true
 excerpt_separator: <!--more-->
 ---

@@ -2,7 +2,6 @@
 layout: post
 title:  Rainbows and Rays
 date:   2021-01-23
-categories: light bites
 published: true
 excerpt_separator: <!--more-->
 usemathjax: true

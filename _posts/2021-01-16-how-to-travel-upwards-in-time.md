@@ -2,7 +2,6 @@
 layout: post
 title:  How to travel upwards in time
 date:   2021-01-16
-categories: main courses
 published: true
 excerpt_separator: <!--more-->
 ---
