@@ -10,8 +10,6 @@ excerpt_separator: <!--more-->
 
 <!--more-->
 
-*This is the first post in [A Physicist's Toolbox](/blog), a series of posts about the relationship between maths and physics. In this post we take a brief look at the motivation behind developing a physical understanding of mathematical equations, a topic that we'll delve more into later on.*
-
 ## Leveraging physical understanding
 One thing that I've been interested in for some time is trying to understand solutions to complicated equations at an intuitive level. This is particularly relevant in physics because the equations that we encounter pertain to things in the natural world, and a good "understanding" of the equation necessitates a good grasp of the physical concepts. This is what [Paul Dirac](https://en.wikipedia.org/wiki/Paul_Dirac), one of the greatest physicists of the 20th century, had to say about understanding equations: 
 
