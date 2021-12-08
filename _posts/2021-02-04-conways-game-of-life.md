@@ -5,8 +5,13 @@ date:   2021-02-04
 published: true
 excerpt_separator: <!--more-->
 ---
-*A simulation of Conway's Game of Life using Python and Pygame, as a nice visualisation of cellular automata*
 <!--more-->
+
+**Epistemic status**: moderate confidence, exploratory.
+
+*This is a small project that I worked on to "prepare" for my course on theoretical computer science at the University of St Andrews. I'd heard of Conway's Game of Life several times before, but hadn't ever looked into it very deeply. Hopefully you'll find this as fascinating as I did.*
+
+<br />
 
 This is a simulation of the late [John Conway’s](https://en.wikipedia.org/wiki/John_Horton_Conway) [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) that I made using Python 3 and Pygame. I’d heard of this game many times before, but I’d never gotten round to learning more about it until recently.
 

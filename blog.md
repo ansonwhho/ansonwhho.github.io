@@ -165,3 +165,7 @@ permalink: /blog/
 </div>
 
 </body>
+
+<br />
+# Posts
+*I'm currently in the process of improving some of my older posts. Reader beware!*

@@ -6,9 +6,13 @@ published: true
 excerpt_separator: <!--more-->
 ---
 
-*How physical understanding is invaluable in solving equations.*
-
 <!--more-->
+
+**Epistemic status**: fairly confident, but likely with some errors.
+
+*Recently I was talking to a friend about understanding physics equations. Given that they did really well at maths in their undergrad, and they're currently doing a maths PhD, I was really surprised to hear that they struggled to understand the intuitions behind many equations in physics. I figured that if someone who's way more accomplished than I am at maths struggles with developing physical intution, then probably many other people do as well. Here's my attempt to convey my understanding of using physical intuition, through a couple of classic examples.*
+
+<br />
 
 ## Leveraging physical understanding
 One thing that I've been interested in for some time is trying to understand solutions to complicated equations at an intuitive level. This is particularly relevant in physics because the equations that we encounter pertain to things in the natural world, and a good "understanding" of the equation necessitates a good grasp of the physical concepts. This is what [Paul Dirac](https://en.wikipedia.org/wiki/Paul_Dirac), one of the greatest physicists of the 20th century, had to say about understanding equations: 
@@ -28,7 +32,7 @@ What this integrand is describing is a probability distribution of the speeds of
 
 Now we can integrate by parts to get  
 
-<center>$I = -\frac{1}{\sqrt{2\pi} \alpha}\left( v e^{-\frac{v^2}{2\alpha^2}} \bigr\rvert_{0}^{\infty} - \int\limits_{0}^{\infty} e^{-\frac{v^2}{2\alpha^2}} \text{d}v \right) = \frac{1}{\sqrt{2\pi} \alpha} \left(0 - \sqrt{2\pi \alpha^2} \right) = 1$,</center>
+<center>$I = -\frac{1}{\sqrt{2\pi} \alpha}\left( v e^{-\frac{v^2}{2\alpha^2}} \bigr\rvert_{0}^{\infty} - \int\limits_{0}^{\infty} e^{-\frac{v^2}{2\alpha^2}} \text{d}v \right) = -\frac{1}{\sqrt{2\pi} \alpha} \left(0 - \sqrt{2\pi \alpha^2} \right) = 1$,</center>
 
 which is as we expected. With a touch of physical understanding we were able to get to the solution without actually solving it! The benefits of understanding what the equation describes don't just stop there - it also allows us to check whether or not the integrand itself makes sense in the first place. Essentially, the question is this: we've solved the integral and gotten a reasonable answer, but why should the probability distribution take this form? To answer this, let's break down the integrand $p(v)$:
 

@@ -3,17 +3,18 @@ layout: post
 title:  Look out for the N-rays!
 date:   2020-09-29
 published: true
-excerpt_separator: <!--more-->
+excerpt_separator: 
 ---
-
-*The inevitability of confirmation bias and how it affects physics*
-
 <!--more-->
 
-*I originally wrote this article for the [University of St Andrews PANDA (Physics and Astronomy) Magazine](https://pandamagazine.wp.st-andrews.ac.uk/). This is a slightly edited version of the one found there.*
+**Epistemic status**: Exploratory. I wrote this as an undergraduate physics student, and have no formal expertise in psychology, or history of science. Take everything with a grain of salt!
+
+*I wrote this article for the [University of St Andrews PANDA (Physics and Astronomy) Magazine](https://pandamagazine.wp.st-andrews.ac.uk/) during my physics degree. I'd heard about problems with [publication bias](https://en.wikipedia.org/wiki/Publication_bias) and the [reproducibility crisis](https://en.wikipedia.org/wiki/Replication_crisis) in psychology, and figured that something similar must be happening in physics. Here's one interesting story that I found!*
+
+<br />
 
 # The Discovery of N-rays
-*France, 1904*
+*France, 1904*  
 Professor René Blondlot is about to make physics history.
 
 Just last year, he [announced his discovery](https://archive.org/details/nrayscollectiono00blonrich/page/n29/mode/2up) of a previously unknown part of the electromagnetic spectrum: [N-rays](https://www.wired.com/2014/09/fantastically-wrong-n-rays/)​. Allegedly, these rays are [emitted by almost all objects](https://doi.org/10.1119/1.11342) and [have a host of bizarre properties](https://doi.org/10.1119/1.10643), like the ability to change the brightness of sparks and improve the resolution of distant objects​.

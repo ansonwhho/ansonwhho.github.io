@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  Rainbows and Rays
+title:  The Physics of Rainbows
 date:   2021-01-23
 published: true
 excerpt_separator: <!--more-->
 usemathjax: true
 ---
 
-*A GeoGebra simulation showing how light interacts with a raindrop to form a rainbow, based on the ray optics descriptions by Newton and Descartes*
-
 <!--more-->
 
-*The simulation can also be found at the GeoGebra resources page [here](https://www.geogebra.org/m/c5bdaahj).*
+**Epistemic status**: Confident, but probably with some mistakes. 
+
+<br />
 
 # Description
 This simulation shows how a rainbow is formed from the perspective of geometric optics. Due to the wavelength dependence of refractive index, white light from the Sun disperses into a spectrum of colours. A single internal reflection forms what is known as the primary bow, whereas two internal reflections forms the secondary bow. Note that these are not total internal reflections, since this would imply that the light gets trapped in the drop forever!
