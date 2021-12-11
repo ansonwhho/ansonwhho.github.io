@@ -15,7 +15,7 @@ excerpt_separator: <!--more-->
 <br />
 
 ## Overview
-As with *[Concrete Problems in AI Safety](/2021/12/07/concrete-problems-in-ai-safety.html)*, this is a paper that I've heard about quite a few times amongst members of the AI safety community. This paper was key in showing that [Cooperative Inverse Reinforcement Learning](https://arxiv.org/abs/1606.03137) could be useful for learning complex tasks in deep reinforcement learning. 
+As with *[Concrete Problems in AI Safety](/2021/12/07/concrete-problems-in-ai-safety.html)*, this is a paper that I've heard about quite a few times amongst members of the AI safety community. [This paper](https://arxiv.org/pdf/1706.03741.pdf) was key in showing that [Cooperative Inverse Reinforcement Learning](https://arxiv.org/abs/1606.03137) could be useful for learning complex tasks in deep reinforcement learning. It was written by [Paul Christiano](https://paulfchristiano.com/) *et al*, as a collaboration between [OpenAI](https://openai.com/) and [DeepMind](https://deepmind.com/). 
 
 I've skimmed this before when I was taking part in [Effective Altruism Cambridge's](https://www.eacambridge.org/) [AGI Safety Fundamentals](https://www.eacambridge.org/agi-safety-fundamentals) programme, but at the time I was too busy to read it in detail. Here's me finally getting around to reading it!
 
