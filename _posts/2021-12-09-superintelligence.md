@@ -2,7 +2,7 @@
 layout: post
 title:  "[Summary] Superintelligence: Paths, Dangers, Strategies"
 date:   2021-12-09
-published: true
+published: false
 excerpt_separator: <!--more-->
 ---
 
