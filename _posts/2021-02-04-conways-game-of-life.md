@@ -4,10 +4,17 @@ title:  Conway's Game of Life
 date:   2021-02-04
 published: true
 excerpt_separator: <!--more-->
+tags: theoretical-cs simulations maths
+author: Anson Ho
 ---
+
+> Implementing Conway's Game of Life in Python. 
+
 <!--more-->
 
 **Epistemic status**: moderate confidence, exploratory.
+
+**Warning**: *This post is subject to major updates, and is not currently in its latest version.*
 
 *This is a small project that I worked on to "prepare" for my course on theoretical computer science at the University of St Andrews. I'd heard of Conway's Game of Life several times before, but hadn't ever looked into it very deeply. Hopefully you'll find this as fascinating as I did.*
 

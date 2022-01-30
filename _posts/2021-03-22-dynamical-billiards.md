@@ -1,13 +1,18 @@
 ---
 layout: post
-title:  Billiards on an elliptical table
+title:  Dynamical Billiards
 date:   2021-03-22
 published: true
 excerpt_separator: <!--more-->
+tags: maths simulations
+author: Anson Ho
 ---
+> What happens if you play billiards on an elliptical table, with no friction? 
 <!--more-->
 
 **Epistemic status**: moderate confidence, exploratory.
+
+**Warning**: *This post is subject to major updates, and is not currently in its latest version.*
 
 *This was a project that I worked on in my final year of high school. Back then I knew next to nothing about dynamical systems theory, and I don't claim to know a lot about it now either, but one hopes that I've learnt something about it since starting university. The focus is on investigating the dynamics of idealised billiards on an elliptical table, starting from a circle and increasing the eccentricity.*
 

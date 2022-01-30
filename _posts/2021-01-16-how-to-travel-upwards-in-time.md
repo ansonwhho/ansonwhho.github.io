@@ -3,8 +3,12 @@ layout: post
 title:  How to travel upwards in time
 date:   2021-01-16
 published: true
+tags: physics language st-andrews
 excerpt_separator: <!--more-->
+author: Anson Ho
 ---
+
+> What does language reveal about how we think about time? Why do look *forward* to the future, and *back* into the past? And how does this vary across languages?
 
 <!--more-->
 

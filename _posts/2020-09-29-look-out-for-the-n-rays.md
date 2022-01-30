@@ -3,8 +3,13 @@ layout: post
 title:  Look out for the N-rays!
 date:   2020-09-29
 published: true
-excerpt_separator: 
+tags: physics rationality st-andrews
+excerpt_separator: <!--more-->
+author: Anson Ho
 ---
+
+> How does confirmation bias affect physics? 
+
 <!--more-->
 
 **Epistemic status**: Exploratory. I wrote this as an undergraduate physics student, and have no formal expertise in psychology, or history of science. Take everything with a grain of salt!
