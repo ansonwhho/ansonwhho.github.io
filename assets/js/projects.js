@@ -4,11 +4,11 @@ const aiSafetyProjects = [
         title: 'Parameters, Compute and Data Trends in Machine Learning',
         subtitle: 'A collaborative project to investigate compute trends in ML since 1952',
         image: "/images/thumbnails/PCD-trends.png",
-        link: 'https://www.alignmentforum.org/posts/HvqQm6o8KnwxbdmhZ/estimating-training-compute-of-deep-learning-models',
+        link: 'https://www.alignmentforum.org/s/T9pBzinPXYB3mxSGi',
     },
     {
         title: 'AI Takeoff Speeds and Evolution',
-        subtitle: 'A report from my research internship, analysing the validity of arguments for and against takeoff speeds',
+        subtitle: 'A report from my research internship, analysing the validity of evolutionary analogies in arguments about AI takeoff speeds',
         image: "/images/thumbnails/ai-takeoffs-evolution.jpeg",
         link: 'https://forum.effectivealtruism.org/posts/aSDnzAm85a3Pi87rm/what-role-should-evolutionary-analogies-play-in',
     },
