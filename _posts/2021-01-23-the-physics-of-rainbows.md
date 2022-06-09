@@ -9,15 +9,9 @@ tags: physics st-andrews simulations
 author: Anson Ho
 ---
 
-> A deep dive into three theories about the physics of rainbows, and illustrating the development of scientific theories over time. 
+> A little simulation of how rainbows are formed
 
 <!--more-->
-
-**Epistemic status**: Confident, but probably with some mistakes. 
-
-**Warning**: *This post is subject to major updates, and is not currently in its latest version.*
-
-<br />
 
 # Description
 This simulation shows how a rainbow is formed from the perspective of geometric optics. Due to the wavelength dependence of refractive index, white light from the Sun disperses into a spectrum of colours. A single internal reflection forms what is known as the primary bow, whereas two internal reflections forms the secondary bow. Note that these are not total internal reflections, since this would imply that the light gets trapped in the drop forever!

@@ -8,17 +8,9 @@ tags: theoretical-cs simulations maths
 author: Anson Ho
 ---
 
-> Implementing Conway's Game of Life in Python. 
+> Implementing Conway's Game of Life in Python
 
 <!--more-->
-
-**Epistemic status**: moderate confidence, exploratory.
-
-**Warning**: *This post is subject to major updates, and is not currently in its latest version.*
-
-*This is a small project that I worked on to "prepare" for my course on theoretical computer science at the University of St Andrews. I'd heard of Conway's Game of Life several times before, but hadn't ever looked into it very deeply. Hopefully you'll find this as fascinating as I did.*
-
-<br />
 
 This is a simulation of the late [John Conway’s](https://en.wikipedia.org/wiki/John_Horton_Conway) [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) that I made using Python 3 and Pygame. I’d heard of this game many times before, but I’d never gotten round to learning more about it until recently.
 
@@ -42,14 +34,35 @@ The game starts off in a *dead state* by default, where a blank grid is displaye
 
 # The Simulation
 You can try out my implementation of the Game of Life [here](https://github.com/spectroscopycafe/conway-game-of-life). Below are some snapshots of the simulation:
-![Gosper's Glider Gun](/images/2021/GoL1_GliderGun.png)
-Figure 1: [Gosper’s glider gun](https://en.wikipedia.org/wiki/Gun_(cellular_automaton)) that periodically shoots gliders down to the bottom right of the screen
 
-![Random state](/images/2021/GoL2_Random.png)
-Figure 2: A [(pseudo-)randomly](https://en.wikipedia.org/wiki/Pseudorandom_number_generator) generated start state
+<div style="text-align:center">
+    <img src="/images/2021/GoL1_GliderGun.png" alt="glider-gun" width="400"/>
+</div>
+<center>
+    <p>
+        <a href="https://en.wikipedia.org/wiki/Gun_(cellular_automaton">Gosper’s glider gun</a> periodically shoots gliders down to the bottom right of the screen
+    </p>
+</center>
 
-![State after iterations](/images/2021/GoL3_Iteration.png)
-Figure 3: Most cells have died after 108 iterations
+
+<div style="text-align:center">
+    <img src="/images/2021/GoL2_Random.png" alt="start-state" width="400"/>
+</div>
+<center>
+    <p>
+        A <a href="https://en.wikipedia.org/wiki/Pseudorandom_number_generator">pseudo-randomly</a> generated start state
+    </p>
+</center>
+
+
+<div style="text-align:center">
+    <img src="/images/2021/GoL3_Iteration.png" alt="108-iterations" width="400"/>
+</div>
+<center>
+    <p>
+        Most cells have died after 108 iterations
+    </p>
+</center>
 
 # Controls
 - `SPACE`: Enable/disable mouse editing
@@ -58,7 +71,7 @@ Figure 3: Most cells have died after 108 iterations
 - `D`: Dead state, or an empty board. *Requires disabled mouse editing.*
 - `R`: Random state. *Requires disabled mouse editing.*
 
-When mouse editing is enabled, squares can be clicked on to change their state. Live cells are blue and dead cells are white. Other features like the board size, rate of iteration, colours, etc. can be changed in the “constants.py” file – see the [GitHub repo](https://github.com/spectroscopycafe/conway-game-of-life) for this.
+When mouse editing is enabled, squares can be clicked on to change their state. Live cells are blue and dead cells are white. Other features like the board size, rate of iteration, colours, etc. can be changed in the “constants.py” file – see the [GitHub repo](https://github.com/ansonwhho/conway-game-of-life) for this.
 
 ---
 

@@ -10,14 +10,6 @@ author: Anson Ho
 > How can qualitative physical understanding help us solve problems? When does it work and fail? 
 <!--more-->
 
-**Epistemic status**: fairly confident, but likely with some errors. I only have a Bachelor's degree in physics, so I think it's unlikely that I have a *really* deep understanding of these topics. 
-
-**Target audience**: People who know some undergraduate-level maths, and at least high-school level physics (although it may benefit you to know more). I'm assuming that you know that light can be thought of as waves of the electromagnetic field, and that you know a bit of multivariable calculus. 
-
-*A couple of months ago I was talking to a friend about understanding physics equations. Given that they did really well at maths in their undergrad, and they're currently doing a maths PhD, I was really surprised to hear that they struggled to intuitively understand physics equations. I figured that if someone who's way more accomplished than I am at maths struggles with developing physical intution, then probably many other people do as well. In fact, I recently chatted with another friend about the role of creativity and intuition in physics! This post is an attempt to explain my understanding of what physical understanding is.*
-
-<br />
-
 ## Leveraging physical understanding
 One thing that I've been interested in for some time is trying to understand solutions to complicated equations at an intuitive level. This is particularly relevant in physics because the equations that we encounter pertain to things in the natural world, and a good "understanding" of the equation necessitates a good grasp of the physical concepts. This is what [Paul Dirac](https://en.wikipedia.org/wiki/Paul_Dirac), one of the greatest physicists of the 20th century, had to say about understanding equations: 
 

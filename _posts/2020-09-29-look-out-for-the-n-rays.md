@@ -12,12 +12,6 @@ author: Anson Ho
 
 <!--more-->
 
-**Epistemic status**: Exploratory. I wrote this as an undergraduate physics student, and have no formal expertise in psychology, or history of science. Take everything with a grain of salt!
-
-*I wrote this article for the [University of St Andrews PANDA (Physics and Astronomy) Magazine](https://pandamagazine.wp.st-andrews.ac.uk/) during my physics degree. I'd heard about problems with [publication bias](https://en.wikipedia.org/wiki/Publication_bias) and the [reproducibility crisis](https://en.wikipedia.org/wiki/Replication_crisis) in psychology, and figured that something similar must be happening in physics. Here's one interesting story that I found!*
-
-<br />
-
 # The Discovery of N-rays
 *France, 1904*  
 Professor René Blondlot is about to make physics history.

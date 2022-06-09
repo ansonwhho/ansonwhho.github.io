@@ -8,7 +8,7 @@ const aiSafetyProjects = [
     },
     {
         title: 'AI Takeoff Speeds and Evolution',
-        subtitle: 'A report from my research internship, analysing the validity of evolutionary analogies in arguments about AI takeoff speeds',
+        subtitle: 'What role should evolutionary analogies play in understanding takeoff speeds?',
         image: "/images/thumbnails/ai-takeoffs-evolution.jpeg",
         link: 'https://forum.effectivealtruism.org/posts/aSDnzAm85a3Pi87rm/what-role-should-evolutionary-analogies-play-in',
     },
@@ -23,7 +23,7 @@ const eaProjects = [
     },
     {
         title: 'Data and Information Policy',
-        subtitle: 'Co-authored a 2021 national policy document for Students for Global Health UK',
+        subtitle: 'I co-authored a 2021 national policy document for Students for Global Health UK',
         image: "/images/thumbnails/sfgh-uk.png",
         link: 'https://studentsforglobalhealth.org/policy-statements/',
     }
@@ -38,13 +38,13 @@ const physicsProjects = [
     },
     {
         title: 'Orbital chaos',
-        subtitle: 'Awarded "Most Innovative" in the 2021 St Andrews Physics Thinkathon',
+        subtitle: 'Some fooling around in the St Andrews Physics Thinkathon',
         image: "/images/thumbnails/orbital-chaos.png",
         link: 'https://github.com/ansonwhho/orbital-chaos',
     },
     {
         title: 'The Physics of Rainbows',
-        subtitle: 'How rainbows work, from Descartes theory to Mie scattering',
+        subtitle: 'A geometric optics simulation of rainbows',
         image: "/images/thumbnails/rainbows-and-rays.png",
         link: '/2021/01/23/the-physics-of-rainbows.html',
     },
@@ -57,12 +57,6 @@ const physicsProjects = [
 ];
 
 const mathProjects = [
-    // {
-    //     title: 'A Mathematical Introduction to Convolutional Neural Networks',
-    //     subtitle: 'A dive into the maths of machine learning, neural networks, and computer vision',
-    //     image: "/images/thumbnails/conway-game-of-life.png",
-    //     link: '/2022/01/30/mathematical-introduction-CNNs.html',
-    // },
     {
         title: 'Dynamical Billiards',
         subtitle: 'What happens when you play billiards on an elliptical table?',
@@ -74,13 +68,13 @@ const mathProjects = [
 const csProjects = [
     {
         title: 'Deep Q-Networks',
-        subtitle: 'A first look into deep reinforcement learning',
+        subtitle: 'Implementing DQNs for Spinning Up',
         image: "/images/thumbnails/DQN.png",
-        link: 'https://github.com/ansonwhho/RL-zoo',
+        link: 'https://github.com/ansonwhho/DQN',
     },
     {
         title: 'Conway\'s Game of Life',
-        subtitle: 'An introduction to cellular automata',
+        subtitle: 'A simulation of the Game of Life using Python',
         image: "/images/thumbnails/conway-game-of-life.png",
         link: '/2021/02/04/conways-game-of-life.html',
     },

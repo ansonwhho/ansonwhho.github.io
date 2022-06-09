@@ -10,38 +10,45 @@ author: Anson Ho
 > What happens if you play billiards on an elliptical table, with no friction? 
 <!--more-->
 
-**Epistemic status**: moderate confidence, exploratory.
-
-**Warning**: *This post is subject to major updates, and is not currently in its latest version.*
-
-*This was a project that I worked on in my final year of high school. Back then I knew next to nothing about dynamical systems theory, and I don't claim to know a lot about it now either, but one hopes that I've learnt something about it since starting university. The focus is on investigating the dynamics of idealised billiards on an elliptical table, starting from a circle and increasing the eccentricity.*
-
-<br />
-
 One way of defining an ellipse is in terms of two points, each of which is called a *focus* point. The ellipse is then the locus of all points such that the sum of the distances from these two foci is always a constant. You can visualise it like this: put a loop of string around pins located at the foci, then pull the string taut at one point using a pencil. If you then slide the pencil while keeping the string tight, then the shape that you get is an ellipse. 
 
-![drawing-ellipses](https://images.squarespace-cdn.com/content/v1/553cf0fbe4b080029b4970d7/1430315032812-AU54XBN1OLL63JQU81EN/ke17ZwdGBToddI8pDm48kNOna8qFQZjTtF51_AT4fPh7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmnhdptcuU1alwky_sWs380orDl0W6eyIWC7ENBy2Bpz1aUhVsZmvWoH3YOzDr0hB2/image-asset.jpeg)
-*Image source: [Alex Through the Looking Glass](http://www.loop-the-game.com/snoop)*
+<div style="text-align:center">
+    <img src="https://images.squarespace-cdn.com/content/v1/553cf0fbe4b080029b4970d7/1430315032812-AU54XBN1OLL63JQU81EN/ke17ZwdGBToddI8pDm48kNOna8qFQZjTtF51_AT4fPh7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmnhdptcuU1alwky_sWs380orDl0W6eyIWC7ENBy2Bpz1aUhVsZmvWoH3YOzDr0hB2/image-asset.jpeg" alt="drawing-ellipses" width="400"/>
+</div>
+<center>
+    <p>
+        Image source: <a href="http://www.loop-the-game.com/snoop">Alex Through the Looking Glass</a>
+    </p>
+</center>
 
 # The reflective property of ellipses
 What's so cool about this definition? One thing that I think it brings to the table is that it allows us to intuitively understand a curious property of ellipses. Suppose you want to play a game of billiards (or pool, or snooker, or whatever takes your fancy), but instead of playing on a rectangular table, you play it on an elliptical table. What happens if when you hit the billiard ball, it passes through one of the focus points of the elliptical table?
 
 Regardless of the initial direction, after passing through one focus, the billiard ball reflects off the ellipse and passes through the other focus. 
 
-![initial-path](/images/2021/billiards1_Initial.png)
+<div style="text-align:center">
+    <img src="/images/2021/billiards1_Initial.png" alt="initial-path" width="400"/>
+</div>
+
 *Suppose you hit a billiard ball at $$P_0$$, sending it through the focus point $$F_2$$ to $$P_1$$. What happens next?*
 
 But why stop there? What happens after the ball bounces off the elliptical table a second time?
 
-![second-time](/images/2021/billiards2_Reflect.png)
+<div style="text-align:center">
+    <img src="/images/2021/billiards2_Reflect.png" alt="second-time" width="400"/>
+</div>
 
 And again...
 
-![third-time](/images/2021/billiards3_ReflectTwice.png)
+<div style="text-align:center">
+    <img src="/images/2021/billiards3_ReflectTwice.png" alt="third-time" width="400"/>
+</div>
 
 Each time the ball passes through one of the foci, it reflects off the elliptical table and passes through the other focus. Let's take this further - what happens if we keep doing this?
 
-![converge-to-horizontal](/images/2021/billiards4_ConvergeToAxis.png)
+<div style="text-align:center">
+    <img src="/images/2021/billiards4_ConvergeToAxis.png" alt="converge-to-horizontal" width="400"/>
+</div>
 
 We can see that after many bounces, the trajectory of the ball converges to the horizontal. 
 
@@ -50,11 +57,15 @@ This poses the question: *why does this happen?* There are many ways to attack t
 # Caustic curves
 Interestingly, what we get is an elliptical caustic curve that shares the same foci as the elliptical table, and so these are *confocal* ellipses. 
 
-![confocal-ellipse](/images/2021/billiards5_ConfocalEllipse.png)
+<div style="text-align:center">
+    <img src="/images/2021/billiards5_ConfocalEllipse.png" alt="confocal-ellipse" width="400"/>
+</div>
 
 What if we change things slightly and have the ball initially pass between the two foci? In this case we get a confocal hyperbola, which is really interesting. 
 
-![confocal-hyperbola](/images/2021/billiards6_Hyperbola.png)
+<div style="text-align:center">
+    <img src="/images/2021/billiards6_Hyperbola.png" alt="confocal-hyperbola" width="400"/>
+</div>
 
 Another interesting thing to note is that the caustic ellipse can be obtained via a *conformal* map (locally angle preserving). If the elliptical table has the equation
 
@@ -70,7 +81,9 @@ where $$\lambda$$ is a constant. When the denominator of the first term satisfie
 
 If we play around with the eccentricity of the ellipse (by changing the positions of the foci), then we get the special case of the circle. In this case, we get a concentric circle as a caustic, as you might expect. 
 
-![concentric-circle](/images/2021/billiards7_ConcentricCircle.png)
+<div style="text-align:center">
+    <img src="/images/2021/billiards7_ConcentricCircle.png" alt="concentric-circle" width="400"/>
+</div>
 
 # Simulation and Resources
 I've made a GeoGebra applet that shows this for 50 reflections in the ellipse, which you can play around with. You can find more information on my [GeoGebra page](https://www.geogebra.org/m/euzqtn5p) or in my [GitHub repository](https://github.com/spectroscopycafe/geogebra-scripts).
@@ -87,4 +100,3 @@ There are also other situations that could be investigated, such as the high-sym
 - [Math 188r Dynamical systems](http://people.math.harvard.edu/~knill/teaching/math118/118_dynamicalsystems.pdf) lecture notes by Oliver Knill
 
 ---
-

@@ -12,12 +12,6 @@ author: Anson Ho
 
 <!--more-->
 
-**Epistemic status**: Exploratory. 
-
-*This is an [article](https://pandamagazine.wp.st-andrews.ac.uk/how-to-travel-upwards-in-time/) that I wrote for the [St Andrews Physics and Astronomy magazine](https://pandamagazine.wp.st-andrews.ac.uk/). I'd gotten into a discussion with my flatmate about how we tend to say things like "up year" to mean "last year" in Cantonese, which seemed to suggest that we sometimes talk about time using spatial metaphors. I'm really interested in both physics and language learning, and so this conversation sparked a bit of an investigation.*
-
-<br />
-
 # Long Time No See
 Time is strange. We can’t see or hear it directly, and [philosophers seem to be having a hard time](https://plato.stanford.edu/entries/time/) pinning down what it actually is. Regardless of how abstract it is, it at least feels really real – the years pass by faster and faster, and deadlines are always just around the corner.
 
