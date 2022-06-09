@@ -1,7 +1,6 @@
 ---
 layout: home
 title: About
-# permalink: /projects/
 ---
 
 <!-- <img align="right" style="margin-left:10px;" src="/images/oftw-pledge.jpg" width="275px"/> -->
