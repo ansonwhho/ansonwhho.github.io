@@ -34,29 +34,9 @@ permalink: /projects/
 </head>
 
 # Projects
-## AI Safety
 <div class="project-grid" id="aiSafetyProjects">
 	<project v-for="project in aiSafetyProjects" v-bind:project="project"></project>
 </div>
 
-## Mathematics
-<div class="project-grid" id="mathProjects">
-	<project v-for="project in mathProjects" v-bind:project="project"></project>
-</div>
-
-## Physics
-<div class="project-grid" id="physicsProjects">
-	<project v-for="project in physicsProjects" v-bind:project="project"></project>
-</div>
-
-## Computer Science
-<div class="project-grid" id="csProjects">
-	<project v-for="project in csProjects" v-bind:project="project"></project>
-</div>
-
-## Effective Altruism
-<div class="project-grid" id="eaProjects">
-	<project v-for="project in eaProjects" v-bind:project="project"></project>
-</div>
 
 <script src="/assets/js/projects.js"></script>
