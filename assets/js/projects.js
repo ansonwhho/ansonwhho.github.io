@@ -1,6 +1,18 @@
 // Project list
 const aiSafetyProjects = [
     {
+        title: 'Please Report Your Compute',
+        subtitle: 'An opinion piece pushing for AI researchers to be more transparent in their compute usage.',
+        image: "/images/thumbnails/please-report-your-compute.png",
+        link: 'https://epochai.org/blog/please-report-your-compute',
+    },
+    {
+        title: 'Key Trends and Figures in Machine Learning',
+        subtitle: "A dashboard of key data from Epoch's research on ML",
+        image: "/images/thumbnails/epoch-trends-dashboard.png",
+        link: 'https://epochai.org/blog/announcing-trends-dashboard',
+    },
+    {
         title: 'Trends in Training Dataset Sizes',
         subtitle: 'How have dataset sizes in machine learning changed over time?',
         image: "/images/thumbnails/trends-in-training-dataset-sizes.png",
