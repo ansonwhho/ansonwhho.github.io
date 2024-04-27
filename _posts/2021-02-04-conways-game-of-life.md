@@ -4,7 +4,7 @@ title:  Conway's Game of Life
 date:   2021-02-04
 published: true
 excerpt_separator: <!--more-->
-tags: theoretical-cs simulations maths
+tags: theoretical-cs maths
 author: Anson Ho
 ---
 

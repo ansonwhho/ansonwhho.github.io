@@ -23,17 +23,17 @@
 	src: url(./fonts/computer-modern/cmunsl.ttf);
 }
 
-@font-face {
-	font-family: "Noto Serif";
-	font-weight: normal;
-	src: url(./fonts/Noto_Serif_TC/NotoSerifTC-Regular.otf);
-}
+// @font-face {
+// 	font-family: "Noto Serif";
+// 	font-weight: normal;
+// 	src: url(./fonts/Noto_Serif_TC/NotoSerifTC-Regular.otf);
+// }
 
-@font-face {
-	font-family: "Noto Serif";
-	font-weight: bold;
-	src: url(./fonts/Noto_Serif_TC/NotoSerifTC-Bold.otf);
-}
+// @font-face {
+// 	font-family: "Noto Serif";
+// 	font-weight: bold;
+// 	src: url(./fonts/Noto_Serif_TC/NotoSerifTC-Bold.otf);
+// }
 
 // Site header
 .site-header { 
@@ -42,7 +42,8 @@
 
 .site-title { 
 	color: #fff; 
-	font-family: "Computer Modern", "Noto Serif";
+	font-family: "Computer Modern", "Arial";
+	// font-family: "Arial";
 	font-weight: bold;
 	line-height: $base-line-height * 1.5;
 	float: left;
@@ -50,33 +51,65 @@
 	&:visited {
 		color: #fff;
 	  }
+	
+	&:hover {
+		color: #808080
+	}
 }
 
 .site-nav {
 	float: right;
-	font-family: "Computer Modern", "Noto Serif";
+	font-family: "Computer Modern", "Arial";
+	// font-family: "Arial";
 	font-weight: bold;
+	background-color: #111;
 	
 	.page-link {
 		color: #fff;
-	}
 
+		&:hover {
+			color: #808080;
+		}
+	}
 }
+
+// @media screen and (max-width: 600px) { .site-nav { position: absolute; top: 9px; right: 15px; background-color: #111; border: 3px solid #e8e8e8; border-radius: 5px; text-align: right; }
+// 	.site-nav .menu-icon {
+// 		float: right;
+// 		width: 36px;
+// 		height: 26px;
+// 		line-height: 0;
+// 		padding-top: 10px;
+// 		text-align: center;
+// 		// background-color: #111;
+// 	}
+
+	.site-nav .menu-icon > svg { fill: #FFF; }
 
 // Site footer
 .site-footer { 
 	background-color: #111;
 	text-align: center;
-	font-family: "Computer Modern", "Noto Serif";
+	font-family: "Computer Modern", "Arial";
+	// font-family: "Arial";
 }
 
 // Page content
 
 .page-content {
 	padding: $spacing-unit 0;
-	font-family: "Computer Modern", "Noto Serif";
+	font-family: "Computer Modern", "Arial";
+	// font-family: "Arial";
 	font-style: normal;
 	word-spacing: -1px;
+
+	p {
+		font-size: 18px;
+	}
+
+	li {
+		font-size: 18px;
+	}
 
 	h1 {
 		font-weight: bold;
@@ -99,15 +132,21 @@
 	}
 
 	h1.page-heading {
-		font-family: 'Computer Modern';
+		font-family: "Computer Modern", "Arial";
+		// font-family: "Arial";
 		font-weight: bold;
 		font-size: 40px;
 	}
 
   }
 
+// .post-meta {
+
+// }
+
 .post-meta {
-	font-family: 'Computer Modern';
+	font-family: "Computer Modern", "Arial";
+	// font-family: "Arial";
 	font-size: $base-font-size;
 	color: #111;
 
@@ -119,7 +158,8 @@
 
 .post-header {
 	h1.page-heading {
-		font-family: 'Computer Modern';
+		font-family: "Computer Modern", "Arial";
+		// font-family: "Arial";
 		font-weight: bold;
 		font-size: 40px;
 	}

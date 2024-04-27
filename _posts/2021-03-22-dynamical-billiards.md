@@ -4,7 +4,7 @@ title:  Dynamical Billiards
 date:   2021-03-22
 published: true
 excerpt_separator: <!--more-->
-tags: maths simulations
+tags: maths
 author: Anson Ho
 ---
 > What happens if you play billiards on an elliptical table, with no friction? 

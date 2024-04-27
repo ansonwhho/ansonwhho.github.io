@@ -1,6 +1,18 @@
 // Project list
 const aiSafetyProjects = [
     {
+        title: 'Algorithmic Progress in Language Models',
+        subtitle: 'How quickly have algorithms in language modelling been improving over time?',
+        image: "/images/thumbnails/algo-progress.png",
+        link: 'https://epochai.org/blog/algorithmic-progress-in-language-models',
+    },
+    {
+        title: 'Limits to the Energy Efficiency of CMOS Microprocessors',
+        subtitle: 'How far are we from reaching the "fundamental limits" of the current hardware paradigm?',
+        image: "/images/thumbnails/energy-efficiency.png",
+        link: 'https://epochai.org/blog/limits-to-the-energy-efficiency-of-cmos-microprocessors',
+    },
+    {
         title: 'Please Report Your Compute',
         subtitle: 'An opinion piece pushing for AI researchers to be more transparent in their compute usage.',
         image: "/images/thumbnails/please-report-your-compute.png",

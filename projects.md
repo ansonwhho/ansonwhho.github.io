@@ -11,7 +11,7 @@ permalink: /projects/
 			display: grid;
 			grid-gap: 32px;
 			vertical-align: top;
-			grid-template-columns: repeat(auto-fit, minmax(250px, 47.5%));
+			grid-template-columns: repeat(auto-fit, minmax(150px, 47.5%));
 			padding-bottom: 40px;
 		}
 		.project {
@@ -30,6 +30,9 @@ permalink: /projects/
 			display: block;
 			border-radius: 10%;
 		}
+
+		@media screen and (max-width: 800px) { .project-grid {grid-template-columns: repeat(auto-fit, minmax(150px, 90%))}
+			}
 	</style>
 </head>
 

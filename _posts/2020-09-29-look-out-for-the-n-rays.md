@@ -3,7 +3,7 @@ layout: post
 title:  Look out for the N-rays!
 date:   2020-09-29
 published: true
-tags: physics rationality st-andrews
+tags: physics psychology
 excerpt_separator: <!--more-->
 author: Anson Ho
 ---

@@ -5,7 +5,7 @@ date:   2021-01-23
 published: true
 excerpt_separator: <!--more-->
 usemathjax: true
-tags: physics st-andrews simulations
+tags: physics
 author: Anson Ho
 ---
 

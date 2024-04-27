@@ -3,7 +3,7 @@ layout: post
 title:  How to travel upwards in time
 date:   2021-01-16
 published: true
-tags: physics language st-andrews
+tags: physics linguistics
 excerpt_separator: <!--more-->
 author: Anson Ho
 ---

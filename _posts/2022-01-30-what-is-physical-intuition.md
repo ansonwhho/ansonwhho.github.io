@@ -4,7 +4,7 @@ title:  What is physical intuition?
 date:   2022-01-30
 published: true
 excerpt_separator: <!--more-->
-tags: physics maths simulations
+tags: physics maths
 author: Anson Ho
 ---
 > How can qualitative physical understanding help us solve problems? When does it work and fail? 
