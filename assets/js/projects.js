@@ -1,5 +1,11 @@
 // Project list
-const aiSafetyProjects = [
+const allProjects = [
+    {
+        title: 'Do the Returns to Software R&D Point Towards a Singularity?',
+        subtitle: 'If you double software R&D effort, how much does software efficiency change?',
+        image: "/images/thumbnails/returns-to-rnd.png",
+        link: 'https://epochai.org/blog/do-the-returns-to-software-rnd-point-towards-a-singularity',
+    },
     {
         title: 'Algorithmic Progress in Language Models',
         subtitle: 'How quickly have algorithms in language modelling been improving over time?',
@@ -109,97 +115,9 @@ const aiSafetyProjects = [
         link: '/2021/01/23/the-physics-of-rainbows.html',
     },
 ];
-    
-// const eaProjects = [
-//     {
-//         title: 'Effective Altruism St Andrews',
-//         subtitle: 'A website I helped design and set up for my university EA chapter',
-//         image: "/images/thumbnails/EA-StA-website.png",
-//         link: 'https://www.eastandrews.org',
-//     },
-//     {
-//         title: 'Data and Information Policy',
-//         subtitle: 'I co-authored a 2021 national policy document for Students for Global Health UK',
-//         image: "/images/thumbnails/sfgh-uk.png",
-//         link: 'https://studentsforglobalhealth.org/policy-statements/',
-//     }
-// ];
 
-// const physicsProjects = [
-//     {
-//         title: 'What Is Physical Intuition?',
-//         subtitle: 'Exploring "physical understanding" in physics - how it helps, and how it could go wrong...',
-//         image: "/images/2022/phys_metal-rod.png",
-//         link: '/2022/01/30/what-is-physical-intuition.html',
-//     },
-//     {
-//         title: 'Orbital chaos',
-//         subtitle: 'Some fooling around in the St Andrews Physics Thinkathon',
-//         image: "/images/thumbnails/orbital-chaos.png",
-//         link: 'https://github.com/ansonwhho/orbital-chaos',
-//     },
-//     {
-//         title: 'The Physics of Rainbows',
-//         subtitle: 'A geometric optics simulation of rainbows',
-//         image: "/images/thumbnails/rainbows-and-rays.png",
-//         link: '/2021/01/23/the-physics-of-rainbows.html',
-//     },
-//     {
-//         title: 'PANDA Magazine',
-//         subtitle: 'Website for the Physics and Astronomy Magazine at St Andrews',
-//         image: "/images/thumbnails/panda-mag-website.png",
-//         link: 'https://pandamagazine.wp.st-andrews.ac.uk/',
-//     },
-// ];
-
-// const mathProjects = [
-//     {
-//         title: 'Dynamical Billiards',
-//         subtitle: 'What happens when you play billiards on an elliptical table?',
-//         image: "/images/thumbnails/dynamical-billiards.png",
-//         link: '/2021/03/22/dynamical-billiards.html',
-//     },
-// ];
-
-// const csProjects = [
-//     {
-//         title: 'Deep Q-Networks',
-//         subtitle: 'Implementing DQNs for Spinning Up',
-//         image: "/images/thumbnails/DQN.png",
-//         link: 'https://github.com/ansonwhho/DQN',
-//     },
-//     {
-//         title: 'Conway\'s Game of Life',
-//         subtitle: 'A simulation of the Game of Life using Python',
-//         image: "/images/thumbnails/conway-game-of-life.png",
-//         link: '/2021/02/04/conways-game-of-life.html',
-//     },
-// ];
-
-// Vue instances
+// Vue instance
 new Vue({
-    el: '#aiSafetyProjects',
-    data: aiSafetyProjects
-})
-
-new Vue({
-    el: '#eaProjects',
-    data: eaProjects
-})
-
-
-new Vue({
-    el: '#physicsProjects',
-    data: {physicsProjects: physicsProjects}
-})
-
-
-new Vue({
-    el: '#mathProjects',
-    data: mathProjects
-})
-
-new Vue({
-    el: '#csProjects',
-    data: csProjects
-})
+    el: '#allProjects',
+    data: allProjects
+});

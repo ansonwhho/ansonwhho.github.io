@@ -37,8 +37,8 @@ permalink: /projects/
 </head>
 
 # Projects
-<div class="project-grid" id="aiSafetyProjects">
-	<project v-for="project in aiSafetyProjects" v-bind:project="project"></project>
+<div class="project-grid" id="allProjects">
+	<project v-for="project in allProjects" v-bind:project="project"></project>
 </div>
 
 
