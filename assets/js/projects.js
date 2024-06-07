@@ -1,6 +1,12 @@
 // Project list
 const allProjects = [
     {
+        title: 'Will We Run Out of Data? Limits of LLM Scaling Based on Human-Generated Data',
+        subtitle: 'Estimating the stock of human generated public text',
+        image: "/images/thumbnails/limits-llm-scaling.png",
+        link: 'https://epochai.org/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data',
+    },
+    {
         title: 'Do the Returns to Software R&D Point Towards a Singularity?',
         subtitle: 'If you double software R&D effort, how much does software efficiency change?',
         image: "/images/thumbnails/returns-to-rnd.png",
