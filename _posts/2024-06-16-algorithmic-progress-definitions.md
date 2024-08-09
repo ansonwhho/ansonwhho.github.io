@@ -4,7 +4,7 @@ title:  Challenges around definitions of algorithmic progress
 date:   2024-06-16
 published: true
 excerpt_separator: <!--more-->
-tags: AI
+tags: AI research
 author: Anson Ho
 ---
 > *Brief and unpolished thoughts about issues pertaining to definitions of algorithmic progress.*
