@@ -25,6 +25,12 @@ const allProjects = [
         link: 'https://epochai.org/blog/limits-to-the-energy-efficiency-of-cmos-microprocessors',
     },
     {
+        title: 'Future-Proof: Monitoring the Development, Deployment, and Impacts of Artificial Intelligence',
+        subtitle: 'An AI policy position paper I wrote for the Journal of Science Policy and Governance.',
+        image: "/images/thumbnails/future-proof.png",
+        link: 'https://www.sciencepolicyjournal.org/article_1038126_jspg220305.html',
+    },
+    {
         title: 'Please Report Your Compute',
         subtitle: 'An opinion piece pushing for AI researchers to be more transparent in their compute usage.',
         image: "/images/thumbnails/please-report-your-compute.png",
