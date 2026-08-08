@@ -10,7 +10,7 @@ author: Anson Ho
 > Why isn't the skin effect a really big deal in CMOS microprocessors?
 <!--more-->
 
-About a year ago, I spent some time thinking about the [energy efficiency limits of modern computing hardware](https://epochai.org/blog/limits-to-the-energy-efficiency-of-cmos-microprocessors). Modern CMOS microprocessors perform irreversible operations, and so these processors fundamentally are fundamentally doomed to release energy when performing computations. But what exactly is the limit? Namely, what is the maximum number of oeprations we can perform on a CMOS microprocessor for every unit of energy?
+About a year ago, I spent some time thinking about the [energy efficiency limits of modern computing hardware](https://epochai.org/blog/limits-to-the-energy-efficiency-of-cmos-microprocessors). Modern CMOS microprocessors perform irreversible operations, and so these processors are fundamentally doomed to release energy when performing computations. But what exactly is the limit? Namely, what is the maximum number of operations we can perform on a CMOS microprocessor for every unit of energy?
 
 The approach I ended up taking was to first identify the main sources of heat dissipation, and then estimate how far these could be reduced for each floating point operation using standard microelectronics theory. Doing this suggests that you can do at most around $3 \times 10^{14}$ FLOP at 16-bit precision, the details of which I'll leave to the blog post I've linked above. 
 

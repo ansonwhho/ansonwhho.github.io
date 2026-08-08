@@ -1,15 +1,12 @@
 ---
 layout: post
-title:  What makes a strong assumption?
+title:  Why false assumptions can be good assumptions
 date:   2024-08-23
 published: true
 excerpt_separator: <!--more-->
 tags: research
 author: Anson Ho
 ---
-> Why false assumptions can be good assumptions. 
-<!--more-->
-
 Economists often assume that agents are "rational" - but that's obviously false. After all, it's well known that humans are prone to a range of cognitive biases: [scope neglect](https://en.wikipedia.org/wiki/Scope_neglect), [status quo bias](https://en.wikipedia.org/wiki/Status_quo_bias), [availability bias](https://en.wikipedia.org/wiki/Availability_heuristic)... you name it! Clearly, this suggests that the assumption of "rationality" is terrible - right? 
 
 Well, no. I personally hear this kind of reasoning a lot (i.e. "if an assumption is false it must be bad"), but I think it's pretty mistaken. In particular, I think these criticisms boil down to a misunderstanding about what assumptions are for. 

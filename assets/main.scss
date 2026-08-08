@@ -1,6 +1,18 @@
 ---
 ---
 
+// ---------------------------------------------------------------
+// SITE FONT SWITCH
+// Exactly one of these two lines should be uncommented.
+// To go back to Computer Modern, swap which line is commented out.
+// ---------------------------------------------------------------
+$site-font: Arial, Helvetica, sans-serif;
+// $site-font: "Computer Modern", Arial, sans-serif;
+
+// Override minima's default body font (declared with !default, so this
+// must come before the @import below to take effect).
+$base-font-family: $site-font;
+
 @import "{{ site.theme }}";
 
 // Fonts
@@ -42,8 +54,7 @@
 
 .site-title { 
 	color: #fff; 
-	font-family: "Computer Modern", "Arial";
-	// font-family: "Arial";
+	font-family: $site-font;
 	font-weight: bold;
 	line-height: $base-line-height * 1.5;
 	float: left;
@@ -59,8 +70,7 @@
 
 .site-nav {
 	float: right;
-	font-family: "Computer Modern", "Arial";
-	// font-family: "Arial";
+	font-family: $site-font;
 	font-weight: bold;
 	background-color: #111;
 	
@@ -90,15 +100,35 @@
 .site-footer { 
 	background-color: #111;
 	text-align: center;
-	font-family: "Computer Modern", "Arial";
-	// font-family: "Arial";
+	font-family: $site-font;
+}
+
+// Profile photo
+
+.profile-photo {
+	float: right;
+	width: 180px;
+	height: 180px;
+	object-fit: cover;
+	border-radius: 50%;
+	margin: 0 0 20px 28px;
+}
+
+@media screen and (max-width: 600px) {
+	.profile-photo {
+		float: none;
+		display: block;
+		width: 150px;
+		height: 150px;
+		margin: 0 auto 24px;
+	}
 }
 
 // Page content
 
 .page-content {
 	padding: $spacing-unit 0;
-	font-family: "Computer Modern", "Arial";
+	font-family: $site-font;
 	font-style: normal;
 	word-spacing: -1px;
 
@@ -131,8 +161,7 @@
 	}
 
 	h1.page-heading {
-		font-family: "Computer Modern", "Arial";
-		// font-family: "Arial";
+		font-family: $site-font;
 		font-weight: bold;
 		font-size: 40px;
 	}
@@ -144,8 +173,7 @@
 // }
 
 .post-meta {
-	font-family: "Computer Modern", "Arial";
-	// font-family: "Arial";
+	font-family: $site-font;
 	font-size: $base-font-size;
 	color: #111;
 
@@ -157,8 +185,7 @@
 
 .post-header {
 	h1.page-heading {
-		font-family: "Computer Modern", "Arial";
-		// font-family: "Arial";
+		font-family: $site-font;
 		font-weight: bold;
 		font-size: 40px;
 	}

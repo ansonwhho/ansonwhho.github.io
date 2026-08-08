@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 tags: research
 author: Anson Ho
 ---
-> A collection of tips I've found helpful for coming up with (hopefully good) project ideas.
+[comment]: A collection of tips I've found helpful for coming up with (hopefully good) project ideas.
 <!--more-->
 
 I had my first taste of research at the start of 2021, and it was an utter nightmare - a pretty fascinating nightmare, in fact.[^1] One thing that really stood out to me was that some people are *way* better than I am at generating and evaluating research ideas. This leads to a natural question: how are they able to do this? 
